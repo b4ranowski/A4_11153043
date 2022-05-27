@@ -28,10 +28,6 @@ int main()
     Member m1("Ellen Leseratte");
     Member m2("Klaus Bücherwurm");
 
-
-    //Test ob das direkt in git aktualisiert123
-
-
     m1.lendBook(&b3, d3);
     m1.lendBook(&b1, d3);
 
