@@ -29,7 +29,7 @@ int main()
     Member m2("Klaus Bücherwurm");
 
 
-    //Test ob das direkt in git aktualisiert
+    //Test ob das direkt in git aktualisiert123
 
 
     m1.lendBook(&b3, d3);
